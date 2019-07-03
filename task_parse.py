@@ -6,3 +6,7 @@ linija 2
 
 linija 4
 linija 5
+
+
+linija 6
+linija 7
