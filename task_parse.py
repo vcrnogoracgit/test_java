@@ -8,5 +8,5 @@ linija 4
 linija 5
 
 
-linija 6
+linija 12
 linija 7
