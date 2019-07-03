@@ -10,3 +10,6 @@ linija 5
 
 linija 12
 linija 7
+
+linija 8
+linija 9
